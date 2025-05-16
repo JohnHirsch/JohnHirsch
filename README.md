@@ -10,18 +10,6 @@ I'm currently focused on:
 > *“Every line of code is a step toward mastery.”*  
 > — John Hirsch
 
-# Welcome to my World! 🌍
-
-Hey there! I'm John Hirsch — a passionate Computer Science student and future software developer.
-
-I'm currently focused on:
-- 💻 Learning and mastering programming fundamentals
-- 📚 Building real projects to strengthen my skills
-- 🌐 Preparing for remote work opportunities and internships
-
-> *“Every line of code is a step toward mastery.”*  
-> — John Hirsch
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JohnHirsch&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnHirsch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
