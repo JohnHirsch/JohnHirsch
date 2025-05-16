@@ -73,5 +73,5 @@ extra = servico_extra()         # Valor extra de encadernação.
 # Aqui apresento a fórmula final onde total = (serviço * páginas) + extra.
 total = (servico * paginas) + extra
 
-# Apresenta o valor final com duas casas decimais e a decomposição do cálculo e só ir pro abraço.
+# Apresenta o valor final com duas casas decimais e a decomposição do cálculo..
 print(f"Total: R$ {total:.2f} (serviço: R$ {servico:.2f} * páginas: {paginas:.0f}pag + extra: R$ {extra:.2f})")

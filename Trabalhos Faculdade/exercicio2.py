@@ -26,7 +26,7 @@ while True:
 
     # Verifica se digitou um tamanho inválido.
     if tamanho not in ["P", "M", "G"]:
-        print("Tamanho inválido. Tente novamente.")  # mostra erro se digitou errado.
+        print("Tamanho inválido. Tente novamente.")  # mostra erro e se digitou errado.
         continue  # volta pro começo do loop.
 
     # Cria a variável pra guardar o valor do item escolhido.

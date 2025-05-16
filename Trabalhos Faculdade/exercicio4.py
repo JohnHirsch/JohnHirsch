@@ -90,9 +90,9 @@ def consultar_livros():
                         print(f"EDITORA: {livro['editora']}")
                         encontrado = True
                 if not encontrado:
-                    print("Livro não encontrado.") # Foi mal, seu livro nao existe.
+                    print("Livro não encontrado.") 
             except ValueError:
-                print("ID inválido. Digite apenas números.") # Opa Opa, ora onde vai com esse id desconhecido?
+                print("ID inválido. Digite apenas números.") 
 
         elif opcao == '3':
             autor_busca = input("Digite o nome do autor: ").lower()
@@ -105,7 +105,7 @@ def consultar_livros():
                     print(f"AUTOR: {livro['autor']}")
                     print(f"EDITORA: {livro['editora']}")
             else:
-                print("Nenhum livro encontrado para este autor.") # Esse autor existe?
+                print("Nenhum livro encontrado para este autor.") 
 
         elif opcao == '4':
             break
@@ -122,7 +122,7 @@ def remover_livro():
         for livro in livros:
             if livro["id"] == id_remover:
                 livros.remove(livro)
-                print(f"\nLivro com ID {id_remover} removido com sucesso.") # Poxa, eu gostava dele.
+                print(f"\nLivro com ID {id_remover} removido com sucesso.") 
                 return
         print("Livro não encontrado.") 
     except ValueError:

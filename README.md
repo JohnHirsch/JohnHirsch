@@ -10,48 +10,63 @@ I'm currently focused on:
 > *“Every line of code is a step toward mastery.”*  
 > — John Hirsch
 
-<p align="left">
-    </a> 
-    <a href="https://github.com/Johnhirsch?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Johnhirsch?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Johnhirsch?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Johnhirsch?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
----
+# Welcome to my World! 🌍
 
-### 🤖 Linguagens e Tecnologias
+Hey there! I'm John Hirsch — a passionate Computer Science student and future software developer.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+I'm currently focused on:
+- 💻 Learning and mastering programming fundamentals
+- 📚 Building real projects to strengthen my skills
+- 🌐 Preparing for remote work opportunities and internships
+
+> *“Every line of code is a step toward mastery.”*  
+> — John Hirsch
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnHirsch&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnHirsch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### 📊 Estatísticas
+###
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Johnhirsch&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="left">
+  <a href="https://www.instagram.com/johnhirschh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/?view=cm&fs=1&to=contactjohnhirsch@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/johnhirschofficial" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnhirsch&theme=tokyonight&layout=compact&custom_title=Linguages&langs_count=9" 
-  />
+###
 
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZpNXo4eTNpcXR1dGFxNHphM2J6ZTQ1ZG5od2xpNWQ3YjJmazZiMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+
+###
+
+<h3 align="left">𝐇𝐞𝐥𝐥𝐨, 𝐰𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐚𝐧𝐝 𝐬𝐭𝐮𝐝𝐢𝐞𝐬 𝐭𝐡𝐚𝐭 𝐈 𝐚𝐦 𝐜𝐚𝐫𝐫𝐲𝐢𝐧𝐠 𝐨𝐮𝐭 𝐝𝐮𝐫𝐢𝐧𝐠 𝐦𝐲 𝐣𝐨𝐮𝐫𝐧𝐞𝐲. 𝐇𝐞𝐫𝐞 𝐈 𝐩𝐫𝐞𝐬𝐞𝐧𝐭 𝐦𝐲 𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨!</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnHirsch&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###

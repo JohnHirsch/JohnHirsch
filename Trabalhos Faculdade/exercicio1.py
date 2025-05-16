@@ -2,7 +2,7 @@
 print("Bem-vindo à loja do João Vitor S. Barros")  # Aqui inicio com a mensagem de boas-vindas com nome da loja.
 
 def calculo_desconto():
-    valor = float(input("Entre com o valor do produto: "))  # Aqui olicita o valor unitário do produto ao usuário.
+    valor = float(input("Entre com o valor do produto: "))  # Aqui solicita o valor unitário do produto ao usuário.
     quantidade = int(input("Entre com a quantidade do produto: "))  # Aqui solicita a quantidade de produtos desejada.
 
     totals_desconto = valor * quantidade # Aqui calcula o valor total sem desconto.
